@@ -1,0 +1,10 @@
+channels:
+- defaults
+dependencies:
+- matplotlib
+- nbconvert
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- seaborn
